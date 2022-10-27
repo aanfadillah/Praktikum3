@@ -16,7 +16,8 @@ print('X')
 print('Y')
 print('Z')
 ```
-![Gambar1](gambar/Latihan1.png)
+<img width="125" alt="aan1" src="https://user-images.githubusercontent.com/115763475/198224750-e09a84ec-9920-4d19-add9-081467e70d98.png">
+
 
 # Penggunaan Seperator
 ```
@@ -27,7 +28,7 @@ print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ```
-![Gambar1](gambar/Latihan1,1.png)
+<img width="179" alt="aan2" src="https://user-images.githubusercontent.com/115763475/198225229-59bb3ad3-a674-49db-a501-1ade21362176.png">
 
 # String Format 
 String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation. 
@@ -45,7 +46,7 @@ print(8, 10**8)
 print(9, 10**9)
 print(10, 10**10)
 ```
-![Gambar1](gambar/Latihan1,2.png)
+<img width="118" alt="aan3" src="https://user-images.githubusercontent.com/115763475/198225484-fce47374-6acf-4a70-bd1b-f566234dad90.png">
 
 # String Format 2
 ```
@@ -61,9 +62,12 @@ print('{0:>3} {1:>16}'.format(0, 10**8))
 print('{0:>3} {1:>16}'.format(0, 10**9))
 print('{0:>3} {1:>16}'.format(0, 10**10))
 ```
-![Gambar1](gambar/Latihan1,3.png)
+<img width="275" alt="aan4" src="https://user-images.githubusercontent.com/115763475/198226035-ccc542d5-eef0-4060-b531-c9a401e1fea7.png">
+
+
 # Hasil Latihan 1
-![Gambar1](gambar/Hasil1.png)
+
+
 ## Latihan 2
 
 # Input Variable
