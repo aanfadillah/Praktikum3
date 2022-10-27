@@ -120,7 +120,8 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 # Latihan 4 Luas Lingkaran
 # Flowchart untuk mencari Luas Lingkaran 
 
-jj
+![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115763475/198231868-8d08d703-453f-4fb2-8887-b59299df7579.png)
+
 # Membuat Program untuk Mencari Luas Lingkaran
 Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
 ```
@@ -142,7 +143,8 @@ L = phi * (r * r)
 ```
 print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
-uuu
+<img width="435" alt="aan12" src="https://user-images.githubusercontent.com/115763475/198231998-08ba51ee-6404-4b83-a999-cf1fc6e3f186.png">
 
 # Hasil Latihan 4 Luas Lingkaran
 
+<img width="325" alt="aan13" src="https://user-images.githubusercontent.com/115763475/198232100-a81e77ec-6aaf-4c52-961c-902551e943c0.png">
