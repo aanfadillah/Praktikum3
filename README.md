@@ -64,9 +64,9 @@ print('{0:>3} {1:>16}'.format(0, 10**10))
 ```
 <img width="275" alt="aan4" src="https://user-images.githubusercontent.com/115763475/198226035-ccc542d5-eef0-4060-b531-c9a401e1fea7.png">
 
-
 # Hasil Latihan 1
 
+![Hasil1](https://user-images.githubusercontent.com/115763475/198227429-f668fd64-0ba9-4ba4-9f3c-2ae45781fc04.png)
 
 ## Latihan 2
 
@@ -76,7 +76,7 @@ Penggunaan python untuk menginput nilai variabel dengan cara
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
 ```
-![Gambar2](gambar/Latihan2.png)
+<img width="181" alt="aan5" src="https://user-images.githubusercontent.com/115763475/198228809-0e8141fe-cf0f-4f43-a99c-9ab8c2e2d435.png">
 
 # Cetak Variable
 Mencetak nilai kedua variabel ketika sudah di input 
@@ -84,14 +84,14 @@ Mencetak nilai kedua variabel ketika sudah di input
 print("variable a=",a)
 print("variable b=",b)
 ```
-![Gambar2](gambar/Latihan2,1.png)
+<img width="143" alt="aan6" src="https://user-images.githubusercontent.com/115763475/198229038-3ed96157-27ab-4f84-9032-d5b9a5ba90e5.png">
 
 # Penggabungan Variable
 Penggabungan kedua nilai Variable 
 ```
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
 ```
-![Gambar2](gambar/Latihan2,2.png)
+<img width="355" alt="aan7" src="https://user-images.githubusercontent.com/115763475/198229373-c8239bfd-8318-4aa4-a204-48b70d30eefb.png">
 
 # Input Variable 2
 Penggunaan python untuk menginput kedua variable 
@@ -99,7 +99,7 @@ Penggunaan python untuk menginput kedua variable
 a=int(a)
 b=int(b)
 ```
-![Gambar2](gambar/Latihan2,3.png)
+<img width="65" alt="aan8" src="https://user-images.githubusercontent.com/115763475/198229452-7c65ce32-3a5e-452e-a38f-7ca7b5baa9bd.png">
 
 # Konversi Nilai Variable
 Mencetak kembali hasil mengkonversi nilai kedua variabel  
@@ -107,17 +107,20 @@ Mencetak kembali hasil mengkonversi nilai kedua variabel
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ```
-![Gambar2](gambar/Latihan2,4.png)
+<img width="382" alt="aan9" src="https://user-images.githubusercontent.com/115763475/198229495-57afd1de-6ba6-4361-a611-2be201472580.png">
 
 # Hasil Latihan 2
-![Gambar2](gambar/Hasil2.png)
+
+<img width="170" alt="aan10" src="https://user-images.githubusercontent.com/115763475/198229678-17a1c4e5-ade5-4fcb-8cf5-e106f60bd63f.png">
 
 # Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
-![Gambar3](gambar/Hasil3.png)
+
+<img width="629" alt="aan11" src="https://user-images.githubusercontent.com/115763475/198229848-6e12a2f2-65b9-4516-b0d8-59d4454b2e37.png">
 
 # Latihan 4 Luas Lingkaran
 # Flowchart untuk mencari Luas Lingkaran 
-![Gambar3](gambar/Flowchart.png)
+
+jj
 # Membuat Program untuk Mencari Luas Lingkaran
 Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
 ```
@@ -139,7 +142,7 @@ L = phi * (r * r)
 ```
 print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
-![Gambar3](gambar/Latihan3.png)
+uuu
 
 # Hasil Latihan 4 Luas Lingkaran
-![Gambar3](gambar/HasilLingkaran.png)
+
