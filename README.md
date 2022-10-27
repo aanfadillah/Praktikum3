@@ -117,19 +117,20 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 
 <img width="629" alt="aan11" src="https://user-images.githubusercontent.com/115763475/198229848-6e12a2f2-65b9-4516-b0d8-59d4454b2e37.png">
 
-# Latihan 4 Luas Lingkaran
-# Flowchart untuk mencari Luas Lingkaran 
+# Latihan 4 Luas dan Keliling Lingkaran
+# Flowchart untuk mencari Luas dan Keliling Lingkaran 
 
 ![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115763475/198231868-8d08d703-453f-4fb2-8887-b59299df7579.png)
 
-# Membuat Program untuk Mencari Luas Lingkaran
-Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
+# Membuat Program untuk Mencari Luas dan Keliling Lingkaran
+Rumus Luas Lingkaran adalah phi * (r * r) atau phi * r² 
+Rumus Keliling Lingkaran adalah 2 * phi * r
 ```
-print('Menghitung luas lingakaran')
+print('Menghitung luas dan keliling lingakaran')
 print('==============================')
 ```
 # Menginput Nilai Jari-Jari
-Menginput jari jari untuk mencari luas lingkaran
+Menginput jari jari untuk mencari luas dan keliling lingkaran
 ```
 r = int(input('masukan jari-jari lingkaran: '))
 ```
@@ -138,14 +139,15 @@ Nilai Phi adalah 3,14 atau 22/7
 ```
 phi = 3.14
 L = phi * (r * r)
+K = 2 * phi * r
 ```
-# Mencetak Hasil Luas Lingkaran
+# Mencetak Hasil Luas dan keliling Lingkaran
 ```
-print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
+print('Luas dan keliling lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
 <img width="435" alt="aan12" src="https://user-images.githubusercontent.com/115763475/198231998-08ba51ee-6404-4b83-a999-cf1fc6e3f186.png">
 
-# Hasil Latihan 4 Luas Lingkaran
+# Hasil Latihan 4 Luas dan Keliling Lingkaran
 
 <img width="325" alt="aan13" src="https://user-images.githubusercontent.com/115763475/198232100-a81e77ec-6aaf-4c52-961c-902551e943c0.png">
 
