@@ -144,7 +144,9 @@ K = 2 * phi * r
 ```
 # Mencetak Hasil Luas dan keliling Lingkaran
 ```
-print('Luas dan keliling lingakaran dengan jari-jari {} adalah {}'.format(r, L))
+print('Luas lingkaran dengan jari-jari {} adalah {}'.format(r, L))
+
+print('Keliling lingkaran dengan jari-jari {} adalah {}'.format(r, K))
 ```
 <img width="435" alt="aan12" src="https://user-images.githubusercontent.com/115763475/198231998-08ba51ee-6404-4b83-a999-cf1fc6e3f186.png">
 
