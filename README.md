@@ -5,9 +5,9 @@
 ## Latihan 1 
 # Penggunaan end
 
-  Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. Di akhir output dari pernyataan print dengan python.
-  Secara default, fungsi cetak diakhiri dengan baris baru.
-  Melewati spasi putih ke parameter akhir (end=' ') menunjukkan bahwa karakter akhir harus diidentifikasi oleh spasi putih dan bukan baris baru.
+  Gunakan Parameter akhir dalam fungsi cetak-cetak untuk menambahkan string apa pun. Hasil akhir output dari pernyataan print dengan python.
+  Secara default, fungsi adalah cetak diakhiri dengan baris baru.
+  Melewati spasi putih ke parameter akhir (end=' ') menunjukkan bahwa karakter akhir harus diidentifikasi oleh spasi dan bukan baris baru.
 ```
 print('A', end='')
 print('B', end='')
@@ -32,7 +32,7 @@ print(w, x, y, z, sep='-----')
 <img width="179" alt="aan2" src="https://user-images.githubusercontent.com/115763475/198225229-59bb3ad3-a674-49db-a501-1ade21362176.png">
 
 # String Format 
-String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation. 
+String Formatting atau Pemformatan string memungkinkan kita memasukan item ke dalam string dari pada kita mencoba untuk menggabungkan string menggunakan koma atau string concatenation. 
 ```
 # string format
 print(0, 10**0)
@@ -72,7 +72,7 @@ print('{0:>3} {1:>16}'.format(0, 10**10))
 ## Latihan 2
 
 # Input Variable
-Penggunaan python untuk menginput nilai variabel dengan cara
+Penggunaan python untuk menginput nilai variabel dengan cara,
 ```
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
@@ -80,7 +80,7 @@ b=input("masukkan nilai b:")
 <img width="181" alt="aan5" src="https://user-images.githubusercontent.com/115763475/198228809-0e8141fe-cf0f-4f43-a99c-9ab8c2e2d435.png">
 
 # Cetak Variable
-Mencetak nilai kedua variabel ketika sudah di input 
+Mencetak nilai kedua variabel ketika sudah di input, 
 ```
 print("variable a=",a)
 print("variable b=",b)
@@ -88,14 +88,14 @@ print("variable b=",b)
 <img width="143" alt="aan6" src="https://user-images.githubusercontent.com/115763475/198229038-3ed96157-27ab-4f84-9032-d5b9a5ba90e5.png">
 
 # Penggabungan Variable
-Penggabungan kedua nilai Variable 
+Penggabungan kedua nilai Variable, 
 ```
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
 ```
 <img width="355" alt="aan7" src="https://user-images.githubusercontent.com/115763475/198229373-c8239bfd-8318-4aa4-a204-48b70d30eefb.png">
 
 # Input Variable 2
-Penggunaan python untuk menginput kedua variable 
+Penggunaan python untuk menginput kedua variable, 
 ```
 a=int(a)
 b=int(b)
@@ -103,7 +103,7 @@ b=int(b)
 <img width="65" alt="aan8" src="https://user-images.githubusercontent.com/115763475/198229452-7c65ce32-3a5e-452e-a38f-7ca7b5baa9bd.png">
 
 # Konversi Nilai Variable
-Mencetak kembali hasil mengkonversi nilai kedua variabel  
+Mencetak kembali hasil mengkonversi nilai kedua variabel,  
 ```
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
@@ -132,7 +132,7 @@ print('Menghitung luas dan keliling lingakaran')
 print('==============================')
 ```
 # Menginput Nilai Jari-Jari
-Menginput jari jari untuk mencari luas dan keliling lingkaran
+Menginput jari jari untuk mencari luas dan keliling lingkaran,
 ```
 r = int(input('masukan jari-jari lingkaran: '))
 ```
