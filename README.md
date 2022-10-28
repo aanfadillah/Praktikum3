@@ -1,9 +1,9 @@
-### Nama = Aan Fadillah Putra
+### Nama = Aan Fadillah Putra 
 ### Nim = 312210327 
-### Kelas = TI.22.A.3
+### Kelas = TI.22.A.3 
 
 # Latihan 1 
-## Penggunaan end
+## Penggunaan end 
 
   Gunakan Parameter akhir dalam fungsi cetak-cetak untuk menambahkan string apa pun. Hasil akhir output dari pernyataan print dengan python.
   Secara default, fungsi adalah cetak diakhiri dengan baris baru.
